@@ -9,6 +9,23 @@
     justify-content: space-between;
     background-color: rgba(0, 0,0,0.3);
 }
+
+section{
+    width: 100%;
+    height: calc(100% - 75px);
+}
+
+#snosotros{
+    background-color: thistle;
+}
+
+#porfolio{
+    background-color: aquamarine;
+}
+
+#contacto{
+    background-color: bisque;
+}
 .logo, .navegador{
     height: 100%;
     display: flex;
